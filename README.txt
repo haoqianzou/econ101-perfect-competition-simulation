@@ -1,5 +1,13 @@
 Perfect Competition Simulation - Usage Guide
 
+This game is a simulation of a perfectly competitive market. Students take on the role of apple producers, aiming to maximize their profits over three rounds of production planning.
+
+  1.In each round, firms decide how much to produce based on market conditions.
+  2.The market price is predetermined and cannot be changed (Price takers).
+  3.The cost function for firms and the market demand curve remain unchanged throughout the game.
+
+
+
 🔹 Online Version
 
 If you have an active internet connection, you can directly access the simulation through the following link:
